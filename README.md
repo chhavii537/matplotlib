@@ -1,1 +1,1 @@
-it is a python linrary used for data visualisation .Showing the data in a graphical representation . 
+it is a python library used for data visualisation .Showing the data in a graphical representation . 
